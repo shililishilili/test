@@ -1,0 +1,57 @@
+ /*底部样式*/
+ .my_footer{
+    width:100%;
+    height: 300px;
+    } 
+    .footer{
+        background-color:#003;
+        width: 100%;
+        height: 330px;
+    }
+    .footer-center{
+        background-color:#003;
+        width: 95%;
+        height: 250px;
+        margin:0 auto;
+        padding-top:25px;
+    }
+    ul .li{
+    list-style:none;
+    font-size: 15px;
+    color: #003;
+    }
+    .ul{
+        float:left;
+        width: 10%;
+        height: 200px;
+        background-color :#003;
+        margin:20px;
+    }
+    .footer-text1{
+        width: 100px;
+        height: 113px;
+        float: left;
+        margin-top:30px;
+        margin-left:50px;
+        margin-right:50px;
+    }
+    .footer-text6, .footer-text7{
+        width: 95px;
+        height: 95px;
+        float: left;
+        padding-top:px;
+        margin: 15px 20px 20px 0px;
+    }
+    .h6{
+        width:100px;
+        margin-left: 3px;
+        font-size: 12px;
+    }
+    .footer-text8{
+        clear:left;
+        text-align:center;
+
+    }
+    .a{
+    color: aliceblue;
+    }
