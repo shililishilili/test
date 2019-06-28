@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1134px" height="687px" viewBox="0 0 1134 687" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组织架构" transform="translate(-153.000000, -688.000000)">
+            <g id="Group" transform="translate(154.000000, 688.000000)">
+                <g id="逛街购集团" transform="translate(546.000000, 0.000000)">
+                    <path d="M84,44 L75,54 L66,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L146,0 C148.209139,-4.05812251e-16 150,1.790861 150,4 L150,40 C150,42.209139 148.209139,44 146,44 L84,44 Z" id="Combined-Shape" fill="#F5A623"></path>
+                    <text font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#FFFFFF">
+                        <tspan x="35" y="28">逛街购集团</tspan>
+                    </text>
+                </g>
+                <g id="逛街购网络" transform="translate(134.000000, 116.000000)">
+                    <path d="M84,44 L75,54 L66,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L146,0 C148.209139,-4.05812251e-16 150,1.790861 150,4 L150,40 C150,42.209139 148.209139,44 146,44 L84,44 Z" id="Combined-Shape" fill="#F5A623"></path>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="40" y="28">逛街购网络</tspan>
+                    </text>
+                </g>
+                <g id="街果商贸" transform="translate(402.000000, 116.000000)">
+                    <path d="M84,44 L75,54 L66,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L146,0 C148.209139,-4.05812251e-16 150,1.790861 150,4 L150,40 C150,42.209139 148.209139,44 146,44 L84,44 Z" id="Combined-Shape" fill="#F5A623"></path>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="47" y="28">街果商贸</tspan>
+                    </text>
+                </g>
+                <g id="呆呆文化" transform="translate(670.000000, 116.000000)">
+                    <path d="M84,44 L75,54 L66,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L146,0 C148.209139,-4.05812251e-16 150,1.790861 150,4 L150,40 C150,42.209139 148.209139,44 146,44 L84,44 Z" id="Combined-Shape" fill="#F5A623"></path>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="47" y="28">呆呆文化</tspan>
+                    </text>
+                </g>
+                <g id="尚诚广汇" transform="translate(938.000000, 116.000000)">
+                    <path d="M84,44 L75,54 L66,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L146,0 C148.209139,-4.05812251e-16 150,1.790861 150,4 L150,40 C150,42.209139 148.209139,44 146,44 L84,44 Z" id="Combined-Shape" fill="#F5A623"></path>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="47" y="28">尚诚广汇</tspan>
+                    </text>
+                </g>
+                <g id="战略发展部" transform="translate(33.000000, 234.000000)">
+                    <rect id="Combined-Shape" fill="#CD9C4A" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="40" y="28">战略发展部</tspan>
+                    </text>
+                </g>
+                <g id="技术部" transform="translate(233.000000, 234.000000)">
+                    <rect id="Combined-Shape" fill="#CD9C4A" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="54" y="28">技术部</tspan>
+                    </text>
+                </g>
+                <g id="办公室" transform="translate(403.000000, 235.000000)">
+                    <rect id="Combined-Shape" fill="#CD9C4A" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="54" y="27">办公室</tspan>
+                    </text>
+                </g>
+                <g id="办公室-copy" transform="translate(346.000000, 419.000000) rotate(90.000000) translate(-346.000000, -419.000000) translate(271.000000, 397.000000)">
+                    <rect id="Combined-Shape" fill="#707074" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text id="街-果-崇-文-门-店" transform="translate(77.000000, 22.000000) rotate(-90.000000) translate(-77.000000, -22.000000) " font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="70" y="-17">街</tspan>
+                        <tspan x="70" y="1">果</tspan>
+                        <tspan x="70" y="19">崇</tspan>
+                        <tspan x="70" y="37">文</tspan>
+                        <tspan x="70" y="55">门</tspan>
+                        <tspan x="70" y="73">店</tspan>
+                    </text>
+                </g>
+                <g id="办公室-copy-3" transform="translate(451.000000, 419.000000) rotate(90.000000) translate(-451.000000, -419.000000) translate(376.000000, 397.000000)">
+                    <rect id="Combined-Shape" fill="#707074" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text id="库-房" transform="translate(75.000000, 22.000000) rotate(-90.000000) translate(-75.000000, -22.000000) " font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="68" y="19">库</tspan>
+                        <tspan x="68" y="37">房</tspan>
+                    </text>
+                </g>
+                <g id="办公室-copy-2" transform="translate(552.000000, 419.000000) rotate(90.000000) translate(-552.000000, -419.000000) translate(477.000000, 397.000000)">
+                    <rect id="Combined-Shape" fill="#707074" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text id="市-场-部" transform="translate(75.000000, 22.000000) rotate(-90.000000) translate(-75.000000, -22.000000) " font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="68" y="7">市</tspan>
+                        <tspan x="68" y="27">场</tspan>
+                        <tspan x="68" y="47">部</tspan>
+                    </text>
+                </g>
+                <g id="设计部" transform="translate(585.000000, 234.000000)">
+                    <rect id="Combined-Shape" fill="#CD9C4A" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="54" y="28">设计部</tspan>
+                    </text>
+                </g>
+                <g id="市场部" transform="translate(755.000000, 235.000000)">
+                    <rect id="Combined-Shape" fill="#CD9C4A" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="54" y="27">市场部</tspan>
+                    </text>
+                </g>
+                <g id="运营部" transform="translate(940.000000, 235.000000)">
+                    <rect id="Combined-Shape" fill="#CD9C4A" x="0" y="0" width="150" height="44" rx="4"></rect>
+                    <text font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="54" y="27">运营部</tspan>
+                    </text>
+                </g>
+                <path d="M477.5,279 L477.5,306.5" id="Line-2-Copy-6" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M345.5,307.5 L345.5,343.5" id="Line-2-Copy-8" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M450.5,307.5 L450.5,343.5" id="Line-2-Copy-35" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M447.5,204.5 L448.5,409" id="Line-2-Copy-7" stroke="#D0D0D0" stroke-linecap="square" transform="translate(448.000000, 307.000000) rotate(90.000000) translate(-448.000000, -307.000000) "></path>
+                <path d="M720,529 L720.5,585.5" id="Line-2-Copy-29" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(720.000000, 557.500000) rotate(90.000000) translate(-720.000000, -557.500000) "></path>
+                <path d="M721,421 L721.5,477.5" id="Line-2-Copy-36" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(721.000000, 449.500000) rotate(90.000000) translate(-721.000000, -449.500000) "></path>
+                <path d="M920.5,539 L920.5,579.5" id="Line-2-Copy-32" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(920.000000, 559.500000) rotate(90.000000) translate(-920.000000, -559.500000) "></path>
+                <path d="M919.5,429 L919.5,469.5" id="Line-2-Copy-37" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(919.000000, 449.500000) rotate(90.000000) translate(-919.000000, -449.500000) "></path>
+                <path d="M720,633 L720.5,689.5" id="Line-2-Copy-30" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(720.000000, 661.500000) rotate(90.000000) translate(-720.000000, -661.500000) "></path>
+                <path d="M920.5,643 L920.5,683.5" id="Line-2-Copy-33" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(920.000000, 663.500000) rotate(90.000000) translate(-920.000000, -663.500000) "></path>
+                <path d="M753,427 L895,427 C897.209139,427 899,428.790861 899,431 L899,467 C899,469.209139 897.209139,471 895,471 L753,471 C750.790861,471 749,469.209139 749,467 L749,431 C749,428.790861 750.790861,427 753,427 Z" id="Combined-Shape" stroke="#D0D0D0" fill="#F1F1F3" stroke-dasharray="0,2"></path>
+                <path d="M753,535 L895,535 C897.209139,535 899,536.790861 899,539 L899,575 C899,577.209139 897.209139,579 895,579 L753,579 C750.790861,579 749,577.209139 749,575 L749,539 C749,536.790861 750.790861,535 753,535 Z" id="Combined-Shape-Copy-2" stroke="#D0D0D0" fill="#F1F1F3" stroke-dasharray="0,2"></path>
+                <path d="M752,642 L894,642 C896.209139,642 898,643.790861 898,646 L898,682 C898,684.209139 896.209139,686 894,686 L752,686 C749.790861,686 748,684.209139 748,682 L748,646 C748,643.790861 749.790861,642 752,642 Z" id="Combined-Shape-Copy" stroke="#D0D0D0" fill="#F1F1F3" stroke-dasharray="0,2"></path>
+                <path d="M208.5,170 L208.5,197.5" id="Line-2-Copy-6" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M108.5,197.5 L108.5,233.5" id="Line-2-Copy-8" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M550.5,306.5 L550.5,343.5" id="Line-2-Copy-22" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M691.5,450 L691.5,662" id="Line-2-Copy-28" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,2"></path>
+                <path d="M941.5,450.5 L941.5,664" id="Line-2-Copy-34" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3"></path>
+                <path d="M208.5,97.5 L208.5,296.5" id="Line-2-Copy-7" stroke="#D0D0D0" stroke-linecap="square" transform="translate(208.000000, 197.000000) rotate(90.000000) translate(-208.000000, -197.000000) "></path>
+                <path d="M274.5,-249.5 L274.5,293.5" id="Line-2-Copy-23" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(274.000000, 22.000000) rotate(90.000000) translate(-274.000000, -22.000000) "></path>
+                <path d="M343.5,215.5 L344.5,902.5" id="Line-2-Copy-27" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(344.000000, 559.000000) rotate(90.000000) translate(-344.000000, -559.000000) "></path>
+                <path d="M1036.5,464.5 L1036.5,656" id="Line-2-Copy-31" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(1036.000000, 560.000000) rotate(90.000000) translate(-1036.000000, -560.000000) "></path>
+                <path d="M916.5,-192.5 L916.5,238.5" id="Line-2-Copy-24" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,3" transform="translate(916.000000, 23.000000) rotate(90.000000) translate(-916.000000, -23.000000) "></path>
+                <path d="M745.5,170 L745.5,197.5" id="Line-2-Copy-11" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M659.5,197.5 L659.5,233.5" id="Line-2-Copy-12" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M829.5,198.5 L829.5,234" id="Line-2-Copy-13" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M745.5,112.5 L745.5,281.5" id="Line-2-Copy-14" stroke="#D0D0D0" stroke-linecap="square" transform="translate(745.000000, 197.000000) rotate(90.000000) translate(-745.000000, -197.000000) "></path>
+                <path d="M307.5,198.5 L307.5,233.5" id="Line-2-Copy-9" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M477.5,170.5 L477.5,234" id="Line-2-Copy-10" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M1014.5,170.5 L1014.5,235" id="Line-2-Copy-15" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M621.5,54.5 L621.5,80.5" id="Line-2" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M208.5,81 L208.5,116" id="Line-2-Copy-2" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M1.5,23 L1.5,558.5" id="Line-2-Copy-25" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,2"></path>
+                <path d="M1131.5,24 L1132,560.5" id="Line-2-Copy-26" stroke="#D0D0D0" stroke-linecap="square" stroke-dasharray="0,2"></path>
+                <path d="M477.5,81 L477.5,116" id="Line-2-Copy-3" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M745.5,81 L745.5,116" id="Line-2-Copy-4" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M1014.5,81 L1014.5,116" id="Line-2-Copy-5" stroke="#D0D0D0" stroke-linecap="square"></path>
+                <path d="M611.5,-322 L611.5,482" id="Line-2-Copy" stroke="#D0D0D0" stroke-linecap="square" transform="translate(611.000000, 80.000000) rotate(90.000000) translate(-611.000000, -80.000000) "></path>
+                <text id="总裁办公室" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#525252">
+                    <tspan x="789" y="455">总裁办公室</tspan>
+                </text>
+                <text id="行政部" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#525252">
+                    <tspan x="803" y="563">行政部</tspan>
+                </text>
+                <text id="财务部" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#525252">
+                    <tspan x="802" y="668">财务部</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
